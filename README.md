@@ -1,5 +1,5 @@
 # note-app-Emmanuella-Osuala
-The Smart Notes Manager is a Python-based application that allows users to create, organize, and manage different types of notes. It utilizes Object-Oriented Programming (OOP) principles such as inheritance and polymorphism to handle various note types, including text notes and reminder notes.
+The Smart Notes Manager is a Python-based application that lets users to create, organize, and manage different types of notes. It utilizes Object-Oriented Programming (OOP) principles such as inheritance and polymorphism to handle various note types, including text notes and reminder notes.
 
 Features:
 
